@@ -219,8 +219,8 @@
 
 | **Trejo Espejo, Giordano Sebastian del Ángel (U202316162)** |
 | :--- |
-| Soy un estudiante de 20 años actualmente en el quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable y comprometida con los demás, especialmente al trabajar en equipo. Tengo facilidad para analizar problemas y buscar soluciones prácticas. Además, procuro escuchar y comprender las ideas de mis compañeros para lograr un buen trabajo en conjunto. |
-| ![Foto Gio](https://github.com/SirEthan04/Proxy_Open_Source/blob/main/Recursos/images/giofoto.jpg) |
+| Soy un estudiante de 22 años actualmente en el sexto ciclo de la carrera de Ingeniería de Software. Me concidero una persona conciderada, responsable y que le gusta hacer las cosas bien, me gusta trabajar en equipo, se me facilita el poder resolver problemas y siento que voy a hacer un buen trabajo este ciclo. Además, procuro escuchar y comprender las ideas de mis compañeros para lograr un buen trabajo en conjunto. |
+| ![Foto Diego](https://github.com/SirEthan04/Proxy_Open_Source/blob/main/Recursos/images/perfil-Diego.jpg) |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
